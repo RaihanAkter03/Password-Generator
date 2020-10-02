@@ -1,6 +1,7 @@
-<div align="center">
+<!-- <div align="center">
     <img src="../ScreenShot.JPG" width="400px"</img> 
-</div>
+</div> -->
+![ developed project picture](./Password-Generator/ScreenShot.jpg)
 
 ```
 # 03 JavaScript: Password Generator
