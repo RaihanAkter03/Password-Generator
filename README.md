@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/RaihanAkter03/Password-Generator/blob/master/ScreenShot.JPG" width="400px"</img> 
+    <img src="../ScreenShot.JPG" width="400px"</img> 
 </div>
 
 ```
