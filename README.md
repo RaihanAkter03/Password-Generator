@@ -1,5 +1,14 @@
+<div align="center">
+    <img src="/ScreenShot.jpg" width="400px"</img> 
+</div>
+
 ```
 # 03 JavaScript: Password Generator
+
+URL:https://raihanakter03.github.io/Password-Generator/
+    https://github.com/RaihanAkter03/Password-Generator
+
+
 ## User Story
 
 ```
